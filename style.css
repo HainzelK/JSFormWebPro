@@ -1,0 +1,11 @@
+.frame{
+    margin: 5vw;
+} /*making so that it gas more space*/
+
+.output{
+    margin: 3vw;
+    padding: 2vw;
+    border: 1px solid #ccc;
+    box-shadow: 0 4px 8px rgba(0,0,0,0.1);
+    background-color: #f9f9f9;
+} /*making the output box nicer to look at*/
